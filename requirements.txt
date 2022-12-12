@@ -1,5 +1,5 @@
 pandas
-pyaudio==0.2.11
+pyaudio==0.2.12
 aiortc==1.3.2
 opencv-python-headless==4.5.4.60
 streamlit==1.2.0
